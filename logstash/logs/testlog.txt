@@ -1,0 +1,2 @@
+{"time":"2019-04-15 5:00:00","log-level":"INFO","operation":"database","module":"call-manager","event":"call","message":"Call initiated"}
+{"time":"2019-04-15 5:01:00","log-level":"INFO","operation":"database","module":"call-manager","event":"call","message":"Call initiated"}
